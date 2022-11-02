@@ -8,7 +8,7 @@ The main objective of this project is to predict if a person is having compensat
 
 
 ## For Bulk Prediction
-Heroku: hhttps://thypred.herokuapp.com/
+Heroku: https://thypred.herokuapp.com/
 
 # Demo
 
