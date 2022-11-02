@@ -6,13 +6,9 @@ The main objective of this project is to predict if a person is having compensat
 
 # Webpage Link
 
-## For One-User-Input Prediction
-Heroku: https://tddoneinput.herokuapp.com/
 
 ## For Bulk Prediction
 Heroku: https://batchprediction.herokuapp.com/
-
-AWS: http://tddbulkprediction-env.eba-uqgwbduj.us-east-2.elasticbeanstalk.com/
 
 # Demo
 
@@ -110,7 +106,7 @@ The final model is deployed on Heroku using Flask framework.
 
 # Author
 
-Upendra Kumar: https://www.linkedin.com/in/imupendra/
+Pushkar Raj
 
 
 # Help Me Improve
